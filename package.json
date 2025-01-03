@@ -1,0 +1,24 @@
+{
+  "name": "estadisticabasica",
+  "version": "1.0.0",
+  "description": "Proyecto donde se encuentran las implementacion de los metodos estadisticos mas sencillos",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "run": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MemoEscalona/EstadisticaBasica.git"
+  },
+  "keywords": [
+    "estadistica"
+  ],
+  "author": "Guillermo Escalona",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/MemoEscalona/EstadisticaBasica/issues"
+  },
+  "homepage": "https://github.com/MemoEscalona/EstadisticaBasica#readme"
+}
