@@ -31,20 +31,6 @@ node index.js
 - **Varianza**: Calcula la varianza de un conjunto de números.
 - **Desviación Estándar**: Calcula la desviación estándar de un conjunto de números.
 
-## Ejemplo de Uso
-
-```javascript
-const estadistica = require('./estadistica');
-
-const datos = [1, 2, 3, 4, 5, 5, 6, 7, 8, 9];
-
-console.log('Media:', estadistica.media(datos));
-console.log('Mediana:', estadistica.mediana(datos));
-console.log('Moda:', estadistica.moda(datos));
-console.log('Varianza:', estadistica.varianza(datos));
-console.log('Desviación Estándar:', estadistica.desviacionEstandar(datos));
-```
-
 ## Contribuciones
 
 Las contribuciones son bienvenidas. Por favor, abre un issue o envía un pull request para mejorar el proyecto.
